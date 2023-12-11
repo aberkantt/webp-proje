@@ -12,3 +12,6 @@ C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Repositor
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.pdb
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.genruntimeconfig.cache
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Repositories\obj\Debug\net6.0\ref\Hospital.Repositories.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Repositories\bin\Debug\net6.0\Hospital.Models.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Repositories\bin\Debug\net6.0\Hospital.Models.pdb
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Repositories\obj\Debug\net6.0\Hospital.Repositories.csproj.CopyComplete

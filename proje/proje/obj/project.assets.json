@@ -4078,10 +4078,24 @@
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
       },
+      "Hospital.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8"
+        },
+        "compile": {
+          "bin/placeholder/Hospital.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hospital.Models.dll": {}
+        }
+      },
       "Hospital.Repositories/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Hospital.Models": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8"
         },
@@ -11461,6 +11475,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Hospital.Models/1.0.0": {
+      "type": "project",
+      "path": "../Hospital.Models/Hospital.Models.csproj",
+      "msbuildProject": "../Hospital.Models/Hospital.Models.csproj"
     },
     "Hospital.Repositories/1.0.0": {
       "type": "project",

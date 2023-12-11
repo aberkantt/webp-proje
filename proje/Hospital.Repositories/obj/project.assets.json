@@ -864,6 +864,19 @@
             "rid": "win"
           }
         }
+      },
+      "Hospital.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8"
+        },
+        "compile": {
+          "bin/placeholder/Hospital.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hospital.Models.dll": {}
+        }
       }
     }
   },
@@ -2176,10 +2189,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Hospital.Models/1.0.0": {
+      "type": "project",
+      "path": "../Hospital.Models/Hospital.Models.csproj",
+      "msbuildProject": "../Hospital.Models/Hospital.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Hospital.Models >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 6.0.8"
@@ -2216,7 +2235,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\aslan\\OneDrive\\Masaüstü\\ders\\Web Programlama\\proje\\Hospital.Models\\Hospital.Models.csproj": {
+              "projectPath": "C:\\Users\\aslan\\OneDrive\\Masaüstü\\ders\\Web Programlama\\proje\\Hospital.Models\\Hospital.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
