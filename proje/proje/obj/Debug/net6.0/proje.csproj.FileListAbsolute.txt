@@ -286,3 +286,10 @@ C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\ne
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\Hospital.Models.dll
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\Hospital.Models.pdb
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\obj\Debug\net6.0\proje.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\Hospital.Utilies.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\Hospital.Utilies.pdb

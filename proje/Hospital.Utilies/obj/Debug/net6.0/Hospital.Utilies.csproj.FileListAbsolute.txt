@@ -1,0 +1,17 @@
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\bin\Debug\net6.0\Hospital.Utilies.deps.json
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\bin\Debug\net6.0\Hospital.Utilies.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\bin\Debug\net6.0\Hospital.Utilies.pdb
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\bin\Debug\net6.0\Hospital.Models.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\bin\Debug\net6.0\Hospital.Repositories.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\bin\Debug\net6.0\Hospital.Models.pdb
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\bin\Debug\net6.0\Hospital.Repositories.pdb
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\obj\Debug\net6.0\Hospital.Utilies.csproj.AssemblyReference.cache
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\obj\Debug\net6.0\Hospital.Utilies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\obj\Debug\net6.0\Hospital.Utilies.AssemblyInfoInputs.cache
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\obj\Debug\net6.0\Hospital.Utilies.AssemblyInfo.cs
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\obj\Debug\net6.0\Hospital.Utilies.csproj.CoreCompileInputs.cache
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\obj\Debug\net6.0\Hospital.Utilies.csproj.CopyComplete
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\obj\Debug\net6.0\Hospital.Utilies.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\obj\Debug\net6.0\refint\Hospital.Utilies.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\obj\Debug\net6.0\Hospital.Utilies.pdb
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.Utilies\obj\Debug\net6.0\ref\Hospital.Utilies.dll
