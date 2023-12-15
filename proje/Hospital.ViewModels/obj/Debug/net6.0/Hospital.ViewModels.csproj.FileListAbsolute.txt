@@ -9,3 +9,7 @@ C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModel
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\refint\Hospital.ViewModels.dll
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.pdb
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\ref\Hospital.ViewModels.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.AssemblyReference.cache
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.Models.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.Models.pdb
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.CopyComplete

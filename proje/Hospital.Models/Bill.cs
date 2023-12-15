@@ -15,5 +15,6 @@
         public int LabCharge { get; set; }
         public decimal Advance { get; set; }
         public decimal TotalBill { get; set; }
+
     }
 }

@@ -3,17 +3,32 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "proje", "proje\proje.csproj", "{B3741343-8A91-47BE-AAEE-77BB6426F51B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "proje", "proje\proje.csproj", "{B3741343-8A91-47BE-AAEE-77BB6426F51B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2904CF87-AA32-4655-ACFC-6FFC93D9473D} = {2904CF87-AA32-4655-ACFC-6FFC93D9473D}
+		{7C5E84C0-5204-4CA0-AD8F-EDDABE47FE3B} = {7C5E84C0-5204-4CA0-AD8F-EDDABE47FE3B}
+		{CE136F66-90A8-4361-BE29-73BD5CEDAD24} = {CE136F66-90A8-4361-BE29-73BD5CEDAD24}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Models", "Hospital.Models\Hospital.Models.csproj", "{2904CF87-AA32-4655-ACFC-6FFC93D9473D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.Models", "Hospital.Models\Hospital.Models.csproj", "{2904CF87-AA32-4655-ACFC-6FFC93D9473D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CE136F66-90A8-4361-BE29-73BD5CEDAD24} = {CE136F66-90A8-4361-BE29-73BD5CEDAD24}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.ViewModels", "Hospital.ViewModels\Hospital.ViewModels.csproj", "{7C5E84C0-5204-4CA0-AD8F-EDDABE47FE3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.ViewModels", "Hospital.ViewModels\Hospital.ViewModels.csproj", "{7C5E84C0-5204-4CA0-AD8F-EDDABE47FE3B}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2904CF87-AA32-4655-ACFC-6FFC93D9473D} = {2904CF87-AA32-4655-ACFC-6FFC93D9473D}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Repositories", "Hospital.Repositories\Hospital.Repositories.csproj", "{AB1D2C52-75C6-40E1-B881-9377503F2884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.Repositories", "Hospital.Repositories\Hospital.Repositories.csproj", "{AB1D2C52-75C6-40E1-B881-9377503F2884}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Services", "Hospital.Services\Hospital.Services.csproj", "{B226A7E0-1DBA-4599-9C9A-91D6930AB049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.Utilies", "Hospital.Utilies\Hospital.Utilies.csproj", "{59E82814-FFC5-4AEC-8F67-1C6FC4A1035F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7C5E84C0-5204-4CA0-AD8F-EDDABE47FE3B} = {7C5E84C0-5204-4CA0-AD8F-EDDABE47FE3B}
+		{CE136F66-90A8-4361-BE29-73BD5CEDAD24} = {CE136F66-90A8-4361-BE29-73BD5CEDAD24}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hospital.Utilies", "Hospital.Utilies\Hospital.Utilies.csproj", "{59E82814-FFC5-4AEC-8F67-1C6FC4A1035F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hospital.Services", "Hospital.Services\Hospital.Services.csproj", "{CE136F66-90A8-4361-BE29-73BD5CEDAD24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,14 +52,14 @@ Global
 		{AB1D2C52-75C6-40E1-B881-9377503F2884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB1D2C52-75C6-40E1-B881-9377503F2884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB1D2C52-75C6-40E1-B881-9377503F2884}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B226A7E0-1DBA-4599-9C9A-91D6930AB049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B226A7E0-1DBA-4599-9C9A-91D6930AB049}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B226A7E0-1DBA-4599-9C9A-91D6930AB049}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B226A7E0-1DBA-4599-9C9A-91D6930AB049}.Release|Any CPU.Build.0 = Release|Any CPU
 		{59E82814-FFC5-4AEC-8F67-1C6FC4A1035F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{59E82814-FFC5-4AEC-8F67-1C6FC4A1035F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59E82814-FFC5-4AEC-8F67-1C6FC4A1035F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59E82814-FFC5-4AEC-8F67-1C6FC4A1035F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE136F66-90A8-4361-BE29-73BD5CEDAD24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE136F66-90A8-4361-BE29-73BD5CEDAD24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE136F66-90A8-4361-BE29-73BD5CEDAD24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE136F66-90A8-4361-BE29-73BD5CEDAD24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
