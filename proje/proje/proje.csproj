@@ -7,6 +7,7 @@
   </PropertyGroup>
 
 	<ItemGroup>
+		<PackageReference Include="cloudscribe.Web.Pagination" Version="6.0.0" />
 		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.8" />
 		<PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.8" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.8" />
@@ -15,16 +16,16 @@
 		  <PrivateAssets>all</PrivateAssets>
 		  <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
-		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.8" />
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
 	</ItemGroup>
 
 	<ItemGroup>
 	  <ProjectReference Include="..\Hospital.Repositories\Hospital.Repositories.csproj" />
 	  <ProjectReference Include="..\Hospital.Utilies\Hospital.Utilies.csproj" />
+		<ProjectReference Include="..\Hospital.Services\Hospital.Services.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Folder Include="Areas\Admin\Views\" />
 	  <Folder Include="Areas\Doctor\Controllers\" />
 	  <Folder Include="Areas\Doctor\Views\" />
 	</ItemGroup>
