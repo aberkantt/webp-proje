@@ -1,0 +1,30 @@
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.deps.json
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.pdb
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.AssemblyInfoInputs.cache
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.AssemblyInfo.cs
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\refint\Hospital.ViewModels.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.pdb
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\ref\Hospital.ViewModels.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.AssemblyReference.cache
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.Models.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.Models.pdb
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.CopyComplete
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.deps.json
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.dll
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.ViewModels.pdb
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.Models.dll
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\bin\Debug\net6.0\Hospital.Models.pdb
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.AssemblyReference.cache
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.AssemblyInfoInputs.cache
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.AssemblyInfo.cs
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.csproj.CopyComplete
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.dll
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\obj\Debug\net6.0\refint\Hospital.ViewModels.dll
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\obj\Debug\net6.0\Hospital.ViewModels.pdb
+C:\Users\hande\Downloads\proje\proje\Hospital.ViewModels\obj\Debug\net6.0\ref\Hospital.ViewModels.dll
