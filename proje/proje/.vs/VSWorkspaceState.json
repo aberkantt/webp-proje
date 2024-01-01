@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Hospital.Models",
+    "\\Hospital.Repositories",
+    "\\Hospital.Repositories\\Migrations"
+  ],
+  "SelectedNode": "\\Hospital.Repositories\\Migrations\\20231217151954_AddDoctorToDb.cs",
+  "PreviewInSolutionExplorer": false
+}
