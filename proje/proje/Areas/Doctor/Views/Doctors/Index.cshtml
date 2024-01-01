@@ -1,0 +1,38 @@
+﻿@* @model PagedResult<Hospital.ViewModels.TimingViewModel>  *@
+ @model Hospital.ViewModels.TimingViewModel 
+@using Hospital.Utilies
+@using Hospital.ViewModels
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<form asp-action="addtiming">
+
+    <div class="form-group">
+        <label asp-for="Doctor" class="control-label"></label>
+        <input asp-for="Doctor" class="form-control"></input>
+        <span asp-validation-for="Doctor" class="text-danger"></span>
+    </div>
+    <div class="form-floating">
+        <input asp-for="ScheduleDate" aria-required="true" class="form-control"></input>
+        <label asp-for="ScheduleDate"></label>
+        <span asp-validation-for="ScheduleDate" class="text-danger"></span>
+    </div>
+    <div class="form-floating">
+        @*         <select asp-for="Status" asp-items="@Html.GetEnumSelectList<Status>()" class="form-control"></select> *@
+        <label asp-for="Status"></label>
+        <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+
+    <select asp-for="MorningShiftStartTime" asp-items="@ViewBag.morningStart"></select>
+    <select asp-for="MorningShiftEndTime" asp-items="@ViewBag.morningEnd"></select>
+    <select asp-for="AfternoonShiftStartTime" asp-items="@ViewBag.evenStart"></select>
+    <select asp-for="AfternoonShiftEndTime" asp-items="@ViewBag.evenEnd"></select>
+
+    <input type="submit" value="submit" />
+</form>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

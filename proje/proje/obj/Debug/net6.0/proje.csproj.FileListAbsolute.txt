@@ -286,3 +286,14 @@ C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\ne
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\Hospital.ViewModels.pdb
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\cloudscribe.Pagination.Models.dll
 C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\cloudscribe.Web.Pagination.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\aslan\OneDrive\Masaüstü\ders\Web Programlama\proje\proje\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib

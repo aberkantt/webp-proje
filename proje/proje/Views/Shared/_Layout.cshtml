@@ -28,9 +28,21 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="admin" asp-controller="Hospitals" asp-action="Index">Hospital</a>
                         </li>
-                        @* <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="admin" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li> ROOM OLAYI *@
+                        <li class="nav-item">
+                            <a id="manage" class="nav-link text-dark" asp-area="Identity"asp-page="/Account/DoctorRegister">Doctor</a>
+                        </li> 
+                        <li class="nav-item">
+                            <a id="manage" class="nav-link text-dark" asp-area="Identity" asp-page="/Account/Register">Patient</a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="manage" class="nav-link text-dark" asp-area="admin" asp-controller="Users" asp-action="Index">Users</a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="manage" class="nav-link text-dark" asp-area="admin" asp-controller="Users" asp-action="AllDoctors">Doctors List</a>
+                        </li>
+                        <li class="nav-item">
+                            <a id="manage" class="nav-link text-dark" asp-area="Doctor" asp-controller="Doctors" asp-action="Index">Doaaaaaa</a>
+                        </li>
                     </ul>
                     <partial name ="_LoginPartial"/>
                 </div>
